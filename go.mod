@@ -1,6 +1,6 @@
 module github.com/tobycroft/mt_claw_sdk_go
 
-go 1.25.0
+go 1.19
 
 require (
 	github.com/bytedance/sonic v1.14.2
